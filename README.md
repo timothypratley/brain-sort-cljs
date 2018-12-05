@@ -11,7 +11,7 @@ See https://github.com/AdrianoFerrari/brain-sort
 `brain-sort-cljs` puts a question based sorting implementation side by side with a
 drag and drop sorting implementation, to allow for easier comparision of the two approaches.
 
-You can see the built version at https://timothypratley.github.com/brain-sort-cljs
+You can see the built version at https://timothypratley.github.com/brain-sort-cljs/index.html
 
 ## Developing
 
